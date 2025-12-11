@@ -14,9 +14,9 @@ The project encompasses four core dashboards—**Executive Overview**, **Financi
 |--------|----------------------|
 | Mohamed Abdelhamed | Defines project scope and objectives, aligns stakeholders, and reviews final deliverables |
 | Ahmed Wael | Performs data exploration, cleaning, and preparation for reporting |
-| Mohamed Abdelhamed / Shahd Khamess | Builds the data model, creates DAX measures, and develops Power BI dashboards |
+| Shahd Khamess | Builds the data model, creates DAX measures, and develops Power BI dashboards |
 | Salma Nasser | Interprets insights, identifies business issues, and proposes data-driven actions |
-| Yousef Abdelal | Prepares project documentation and validates data and dashboard consistency |
+| Yousef Abdelal / Mohamed Abdelhamed | Prepares project documentation and validates data and dashboard consistency |
 
 ---
 

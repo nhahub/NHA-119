@@ -10,14 +10,13 @@ The project encompasses four core dashboards—**Executive Overview**, **Financi
 
 ## Team Structure
 
-| Member | Role | Main Responsibilities |
-|--------|------|----------------------|
-| Member 1 | Project Lead | Defines project scope and objectives, aligns stakeholders, and reviews final deliverables |
-| Member 2 | Data Engineer | Manages data extraction, loading, and integration from all source systems |
-| Member 3 | Data Analyst | Performs data exploration, cleaning, and preparation for reporting |
-| Member 4 | BI Developer | Builds the data model, creates DAX measures, and develops Power BI dashboards |
-| Member 5 | Business Analyst | Interprets insights, identifies business issues, and proposes data-driven actions |
-| Member 6 | Documentation & QA | Prepares project documentation and validates data and dashboard consistency |
+| Member | Main Responsibilities |
+|--------|----------------------|
+| Mohamed Abdelhamed | Defines project scope and objectives, aligns stakeholders, and reviews final deliverables |
+| Ahmed Wael | Performs data exploration, cleaning, and preparation for reporting |
+| Mohamed Abdelhamed | Builds the data model, creates DAX measures, and develops Power BI dashboards |
+| Salma Nasser | Interprets insights, identifies business issues, and proposes data-driven actions |
+| Yousef Abdelal | Prepares project documentation and validates data and dashboard consistency |
 
 ---
 
